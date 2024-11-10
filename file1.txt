@@ -2,4 +2,7 @@ this is my line of this file
 this is my 2 line of this file
 
 thi is change after commit
- 
+
+This will be restore
+
+This is local change 
